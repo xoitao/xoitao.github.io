@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-05-18T13:16:15.243Z</updated>
+  <updated>2024-05-18T13:47:26.410Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,53 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2024/05/18/tree/"/>
+    <id>http://example.com/2024/05/18/tree/</id>
+    <published>2024-05-18T13:45:22.794Z</published>
+    <updated>2024-05-18T13:47:26.410Z</updated>
+    
+    <content type="html"><![CDATA[<p>title: Tree<br>date: 2024-6-21 5:20:00</p><p>This is a  tree image</p><p><img src="/images/tree.png" alt=""></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;title: Tree&lt;br&gt;
+date: 2024-6-21 5:20:00&lt;/p&gt;
+&lt;p&gt;This is a  tree image&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/tree.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2024/05/18/lake/"/>
+    <id>http://example.com/2024/05/18/lake/</id>
+    <published>2024-05-18T13:42:45.663Z</published>
+    <updated>2024-05-18T13:45:00.606Z</updated>
+    
+    <content type="html"><![CDATA[<p>title: Lake</p><p>This is a  lake image</p><p><img src="/images/lake.png" alt=""></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;title: Lake&lt;/p&gt;
+&lt;p&gt;This is a  lake image&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/lake.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title></title>
